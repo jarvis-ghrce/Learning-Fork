@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aayushpaigwar/Desktop/untitled folder/Learning-Fork1",
+      "program": "/Users/aayushpaigwar/Desktop/untitled folder/Learning-Fork1/build/Debug/outDebug"
+    }
+  ]
+}
